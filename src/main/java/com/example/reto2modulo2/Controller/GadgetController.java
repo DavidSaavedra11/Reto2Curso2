@@ -38,3 +38,5 @@ public class GadgetController {
         gadgetService.delete(id);
     }
 }
+
+// En el minuto 1:07 comenzo el front
